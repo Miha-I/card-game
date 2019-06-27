@@ -1,0 +1,1 @@
+A simple application that simulates a game of 4 card players, players debug one card each, who has the larger card and takes
